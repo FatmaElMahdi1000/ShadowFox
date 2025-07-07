@@ -39,3 +39,4 @@ print(f"6. justice_league_sorted_alphabetically: {justice_league}")
 new_leader = justice_league[0]
 
 print(f"BOUNS QUESTION: NEW LEADER IS: {new_leader}")  #Task6
+
